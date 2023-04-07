@@ -1,0 +1,21 @@
+.dreams-list {
+    margin-left: 250px; /* ajuster la marge en fonction de la largeur de la barre latérale */
+  }
+
+  .dreams-list li {
+    margin-bottom: 20px;
+    padding-left: 20px;
+    border-left: 5px solid #0077c2;
+  }
+
+  .dreams-list li h3 {
+    margin-top: 0;
+  }
+
+.title {
+    font-size: 3em;
+    color: #041157;
+    text-align: center;
+    margin: 50px 0;
+    text-shadow: 2px 2px #ddd;
+}
