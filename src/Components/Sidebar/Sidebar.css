@@ -29,6 +29,11 @@
   text-decoration: none;
 }
 
+.sidebar-link-bis {
+  text-decoration: none;
+  color: inherit;
+}
+
 .sidebar-link:hover {
   background-color: #444;
 }

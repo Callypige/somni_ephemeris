@@ -1,3 +1,9 @@
+body {
+  background: rgb(255, 255, 255);
+  color: #fff;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
 .App {
   text-align: center;
 }

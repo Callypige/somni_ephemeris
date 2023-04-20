@@ -3,6 +3,7 @@
   flex-direction: column;
   max-width: 500px;
   margin: 0 auto;
+  padding: 20px;
 }
 
 .form-group {
@@ -56,5 +57,11 @@
   font-size: "20px";
   font-weight: bold;
   margin-bottom: "16px";
-  color: "#333";
+  color: grey;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
 };

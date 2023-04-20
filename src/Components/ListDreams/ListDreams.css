@@ -1,21 +1,47 @@
 .dreams-list {
-    margin-left: 250px; /* ajuster la marge en fonction de la largeur de la barre latérale */
-  }
+    margin-left: 30px; /* ajuster la marge en fonction de la largeur de la barre latérale */
+}
 
-  .dreams-list li {
-    margin-bottom: 20px;
-    padding-left: 20px;
-    border-left: 5px solid #0077c2;
-  }
+.dreams-list li {
+  margin-bottom: 20px;
+  padding-left: 20px;
+  border-left: 5px solid #0077c2;
+}
 
-  .dreams-list li h3 {
-    margin-top: 0;
-  }
+.dreams-list li h3 {
+  margin-top: 0;
+}
+
+h2 {
+  font-family: 'Oswald';
+  color: black;
+}
 
 .title {
-    font-size: 3em;
-    color: #041157;
+    font-size: 4em;
+    color: #e8a6fa;
     text-align: center;
     margin: 50px 0;
-    text-shadow: 2px 2px #ddd;
+    text-shadow: 2px 2px #000000;
+    font-family: 'Oswald';
 }
+
+/* .dream-container {
+  border: 2px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.dream-container h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.dream-container p {
+  margin-bottom: 5px;
+}
+
+.dream-container p:last-child {
+  margin-bottom: 0;
+} */
